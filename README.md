@@ -22,7 +22,7 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios ingresa
 1. **Clonar o Descargar el Repositorio:**
 
    ```bash
-   git clone https://turepositorio_url.git
+   git clone (https://github.com/rherrera06/Alura_challenge_Amigo_Secreto.git)
    ```
 2. **Uso**
 
